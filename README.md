@@ -7,7 +7,7 @@ https://github.com/walkmanyang/Text-Editing-Image/assets/51987369/c7db9210-5435-
 
 
 
-# Codiing Comming Soon!!! <br />
+# Coding Comming Soon!!! <br />
 
 # Citing Text-Editing-Image
 
