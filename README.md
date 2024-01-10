@@ -8,9 +8,13 @@ https://github.com/walkmanyang/Text-Editing-Image/assets/51987369/c7db9210-5435-
 # Citing Text-Editing-Image
 
   @article{yang2024gan,
+  
     title={Text-Editing-Image: Example of image sample editing based on text input in an open scenario. Edit the input pictures and generate new picture data through different prompt commands},
+    
     author={Qun He and Yang Yu and Xinpei Zhan and Yangyang Zhang},
+    
     year={2024}
+    
   }
 
 # Maintenance
