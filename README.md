@@ -6,9 +6,9 @@ Example of image sample editing based on text input in an open scenario. Edit th
 https://github.com/walkmanyang/Text-Editing-Image/assets/51987369/c7db9210-5435-4b5a-b857-c700d3ffbee4
 
 
-
-
-
+ <br />
+# Codiing Comming Soon!!!
+ <br />
 # Citing Text-Editing-Image
 
   @article{yang2024gan, <br />
@@ -16,10 +16,10 @@ https://github.com/walkmanyang/Text-Editing-Image/assets/51987369/c7db9210-5435-
     &nbsp;&nbsp;&nbsp;&nbsp;author={Qun He and Yang Yu and Xinpei Zhan and Yangyang Zhang}, <br />
     &nbsp;&nbsp;&nbsp;&nbsp;year={2024}  <br />
   }
-
+ <br />
 # Maintenance
 
   Please open a GitHub issue for any help. If you have any questions regarding the technical details, feel free to contact us.
-
+ <br />
 # License
   The codes is use  Intel  plate  BigDL-LLM modle by the LICENSE file.
